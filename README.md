@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dev_056" target="blank"><img src="https://img.shields.io/twitter/follow/dev_056?logo=twitter&style=for-the-badge" alt="dev_056" /></a> </p>
 
-- 🌱 I’m currently learning **Cybersecurity frameworks**
+- 🌱 I’m currently learning **Cybersecurity frameworks**,**AI/ML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
